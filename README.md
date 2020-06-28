@@ -1,2 +1,2 @@
 # kolegas-prototype
-This is just the prototype for kolegas alumni association's website
+This is just the prototype for kolegas.org alumni association's website
